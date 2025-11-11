@@ -1,0 +1,29 @@
+body{
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+}
+h1{
+    color: rgb(49, 16, 102);
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 1.1rem;
+    margin-bottom: 30px;
+}
+button{
+    background-color: rgb(118, 138, 199);
+    color: rgb(31, 31, 73);
+    border: none;
+    padding: 12px 24px;
+    border-radius: 0px;
+    font-size: 1rem;
+}
+button:hover{
+    background-color: rgb(129, 145, 211);
+    transform: scale(1.1);
+}
